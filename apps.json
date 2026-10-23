@@ -1,0 +1,8 @@
+[
+  {"name": "Firefox", "id": "Mozilla.Firefox"},
+  {"name": "VLC", "id": "VideoLAN.VLC"},
+  {"name": "7-Zip", "id": "7zip.7zip"},
+  {"name": "Steam", "id": "Valve.Steam"},
+  {"name": "Jellyfin Media Player", "id": "Jellyfin.JellyfinMediaPlayer"},
+  {"name": "Notepad++", "id": "Notepad++.Notepad++"}
+]
